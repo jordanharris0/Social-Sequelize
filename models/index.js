@@ -5,9 +5,9 @@ const Profile = require("./Profile");
 const User = require("./User");
 
 module.exports = {
-    Comment,
-    Like,
-    Post,
-    Profile,
-    User
-}
+  Comment,
+  Like,
+  Post,
+  Profile,
+  User,
+};

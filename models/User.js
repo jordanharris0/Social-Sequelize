@@ -9,7 +9,7 @@ User.init(
   },
   {
     sequelize: db,
-    modelName: "Comment",
+    modelName: "User",
   }
 );
 

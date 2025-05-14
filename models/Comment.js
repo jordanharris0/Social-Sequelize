@@ -10,7 +10,6 @@ Comment.init(
   {
     sequelize: db,
     modelName: "Comment",
-    timestamps: false,
   }
 );
 

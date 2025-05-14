@@ -10,7 +10,7 @@ Profile.init(
   },
   {
     sequelize: db,
-    modelName: "Like",
+    modelName: "Profile",
   }
 );
 
